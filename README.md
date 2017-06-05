@@ -4,7 +4,7 @@ The code that (maybe) powers Addepar's financial platform.
 
 https://addepar.com/ has an intro video, where there's a lot of nonsense going on, but in particular this screenshot:
 
-![video-screenshot](/Users/alex/Desktop/addepar-typing-game/video-screenshot.png)
+![video-screenshot](video-screenshot.png)
 
 Where did the agency get this code from?
 
